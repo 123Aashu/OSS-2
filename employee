@@ -8,6 +8,8 @@ namespace class
 {
     public abstract class Employee
     {
+    
+    //this is testing for changes
         protected int Id { get; set; }
         protected string FullName { get; set; }
         protected DateTime JoinDate { get; set; }
